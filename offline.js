@@ -1,0 +1,29 @@
+﻿{
+	"version": 1558983834,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/controledanave-sheet0.png",
+		"images/botãodetiro-sheet0.png",
+		"images/controledetiro-sheet0.png",
+		"images/botãocima-sheet0.png",
+		"images/botãocima-sheet1.png",
+		"images/botãodireito-sheet0.png",
+		"images/botãodireito-sheet1.png",
+		"images/botãoesquerdo-sheet0.png",
+		"images/botãoesquerdo-sheet1.png",
+		"images/botãobaixo-sheet0.png",
+		"images/botãobaixo-sheet1.png",
+		"images/fundo-sheet0.png",
+		"images/inimigo-sheet0.png",
+		"images/controledetiroinimigo-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
